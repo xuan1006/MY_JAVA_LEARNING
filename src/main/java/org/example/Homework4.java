@@ -1,9 +1,7 @@
 package org.example;
 
 
-import java.util.Arrays;
-
-public class homework4{
+public class Homework4 {
     public static void main(String[] args) {
             int[] scores = {67, 54, 90, 88, 35, 50, 60, 77, 64, 82};
         Sort s = new Sort();

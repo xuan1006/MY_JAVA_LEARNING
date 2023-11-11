@@ -1,8 +1,8 @@
-package hw;
+package org.example;
 
 import java.util.Scanner;
 
-public class text {
+public class HomeworkNumber {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("輸入:");
