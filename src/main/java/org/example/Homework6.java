@@ -1,6 +1,6 @@
-import java.util.Arrays;
+package org.example;
 
-public class hw6 {
+public class Homework6 {
     public static void main(String[] args) {
         String[] name={"銷售員","產品A","產品B","產品C","產品D","產品E"};
         int[][] num = {{1,33,32,56,45,33},{2,77,33,68,45,23},{3,43,55,43,67,65}};

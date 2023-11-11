@@ -1,12 +1,14 @@
+package org.example;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class Prime {
     public static void main(String[] args) {
         while (true) {
             System.out.print("輸入數字判斷是否為prime number");
             Scanner number = new Scanner(System.in);
-            Main.IsPrime(number.nextInt());
+            Prime.IsPrime(number.nextInt());
         }
     }
     public static void IsPrime(int a){
